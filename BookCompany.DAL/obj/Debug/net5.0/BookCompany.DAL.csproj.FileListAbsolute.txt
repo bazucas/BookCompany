@@ -1,0 +1,11 @@
+D:\BookCompany\BookCompany.DAL\bin\Debug\net5.0\BookCompany.DAL.deps.json
+D:\BookCompany\BookCompany.DAL\bin\Debug\net5.0\BookCompany.DAL.dll
+D:\BookCompany\BookCompany.DAL\bin\Debug\net5.0\ref\BookCompany.DAL.dll
+D:\BookCompany\BookCompany.DAL\bin\Debug\net5.0\BookCompany.DAL.pdb
+D:\BookCompany\BookCompany.DAL\obj\Debug\net5.0\BookCompany.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\BookCompany\BookCompany.DAL\obj\Debug\net5.0\BookCompany.DAL.AssemblyInfoInputs.cache
+D:\BookCompany\BookCompany.DAL\obj\Debug\net5.0\BookCompany.DAL.AssemblyInfo.cs
+D:\BookCompany\BookCompany.DAL\obj\Debug\net5.0\BookCompany.DAL.csproj.CoreCompileInputs.cache
+D:\BookCompany\BookCompany.DAL\obj\Debug\net5.0\BookCompany.DAL.dll
+D:\BookCompany\BookCompany.DAL\obj\Debug\net5.0\ref\BookCompany.DAL.dll
+D:\BookCompany\BookCompany.DAL\obj\Debug\net5.0\BookCompany.DAL.pdb

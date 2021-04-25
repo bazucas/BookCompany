@@ -1,0 +1,11 @@
+D:\BookCompany\BookCompany.Utils\bin\Debug\net5.0\BookCompany.Utils.deps.json
+D:\BookCompany\BookCompany.Utils\bin\Debug\net5.0\BookCompany.Utils.dll
+D:\BookCompany\BookCompany.Utils\bin\Debug\net5.0\ref\BookCompany.Utils.dll
+D:\BookCompany\BookCompany.Utils\bin\Debug\net5.0\BookCompany.Utils.pdb
+D:\BookCompany\BookCompany.Utils\obj\Debug\net5.0\BookCompany.Utils.GeneratedMSBuildEditorConfig.editorconfig
+D:\BookCompany\BookCompany.Utils\obj\Debug\net5.0\BookCompany.Utils.AssemblyInfoInputs.cache
+D:\BookCompany\BookCompany.Utils\obj\Debug\net5.0\BookCompany.Utils.AssemblyInfo.cs
+D:\BookCompany\BookCompany.Utils\obj\Debug\net5.0\BookCompany.Utils.csproj.CoreCompileInputs.cache
+D:\BookCompany\BookCompany.Utils\obj\Debug\net5.0\BookCompany.Utils.dll
+D:\BookCompany\BookCompany.Utils\obj\Debug\net5.0\ref\BookCompany.Utils.dll
+D:\BookCompany\BookCompany.Utils\obj\Debug\net5.0\BookCompany.Utils.pdb
