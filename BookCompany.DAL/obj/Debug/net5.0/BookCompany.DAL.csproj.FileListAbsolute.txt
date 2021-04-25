@@ -9,3 +9,9 @@ D:\BookCompany\BookCompany.DAL\obj\Debug\net5.0\BookCompany.DAL.csproj.CoreCompi
 D:\BookCompany\BookCompany.DAL\obj\Debug\net5.0\BookCompany.DAL.dll
 D:\BookCompany\BookCompany.DAL\obj\Debug\net5.0\ref\BookCompany.DAL.dll
 D:\BookCompany\BookCompany.DAL\obj\Debug\net5.0\BookCompany.DAL.pdb
+D:\BookCompany\BookCompany.DAL\bin\Debug\net5.0\BookCompany.Models.dll
+D:\BookCompany\BookCompany.DAL\bin\Debug\net5.0\BookCompany.Utils.dll
+D:\BookCompany\BookCompany.DAL\bin\Debug\net5.0\BookCompany.Models.pdb
+D:\BookCompany\BookCompany.DAL\bin\Debug\net5.0\BookCompany.Utils.pdb
+D:\BookCompany\BookCompany.DAL\obj\Debug\net5.0\BookCompany.DAL.csprojAssemblyReference.cache
+D:\BookCompany\BookCompany.DAL\obj\Debug\net5.0\BookCompany.DAL.csproj.CopyComplete

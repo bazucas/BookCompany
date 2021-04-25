@@ -9,3 +9,7 @@ D:\BookCompany\BookCompany.Utils\obj\Debug\net5.0\BookCompany.Utils.csproj.CoreC
 D:\BookCompany\BookCompany.Utils\obj\Debug\net5.0\BookCompany.Utils.dll
 D:\BookCompany\BookCompany.Utils\obj\Debug\net5.0\ref\BookCompany.Utils.dll
 D:\BookCompany\BookCompany.Utils\obj\Debug\net5.0\BookCompany.Utils.pdb
+D:\BookCompany\BookCompany.Utils\bin\Debug\net5.0\BookCompany.Models.dll
+D:\BookCompany\BookCompany.Utils\bin\Debug\net5.0\BookCompany.Models.pdb
+D:\BookCompany\BookCompany.Utils\obj\Debug\net5.0\BookCompany.Utils.csprojAssemblyReference.cache
+D:\BookCompany\BookCompany.Utils\obj\Debug\net5.0\BookCompany.Utils.csproj.CopyComplete
