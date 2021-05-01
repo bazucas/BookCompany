@@ -12,6 +12,8 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using BookCompany.DAL.Repository;
+using BookCompany.DAL.Repository.IRepository;
 
 namespace BookCompany.UI
 {
@@ -35,6 +37,7 @@ namespace BookCompany.UI
             //services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
             services.AddDefaultIdentity<IdentityUser>()
                 .AddEntityFrameworkStores<ApplicationDbContext>();
+            services.AddScoped<IUnitOfWork, UnitOfWork>();
             services.AddControllersWithViews();
         }
 
@@ -63,9 +66,9 @@ namespace BookCompany.UI
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllerRoute(
-                    name: "areas",
-                    pattern: "{area=Customer}/{controller=Home}/{action=Index}/{id?}"
-                );
+                    name: "default",
+                    pattern: "{area=Customer}/{controller=Home}/{action=Index}/{id?}");
+                endpoints.MapRazorPages();
             });
         }
     }

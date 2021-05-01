@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "ZbVBcTnsar0f/933tJik4VGBCG/3gNfMToaKOWZ1sXSMt5GRlyJA++JI47UJvIhUHng5v939yDWSGvDnalLG8w==",
+  "dgSpecHash": "t5KHvOvZK2U6GJILz0ATsV4H/ZUSlaqWUdTDtI2cksdHIDVOO13nbm2EqlGymM47uKNv3Tq2pNRn5JhcaF2GLA==",
   "success": true,
   "projectFilePath": "D:\\BookCompany\\BookCompany.DAL\\BookCompany.DAL.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Luis\\.nuget\\packages\\dapper\\2.0.90\\dapper.2.0.90.nupkg.sha512",
     "C:\\Users\\Luis\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.5\\microsoft.aspnetcore.cryptography.internal.5.0.5.nupkg.sha512",
     "C:\\Users\\Luis\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\5.0.5\\microsoft.aspnetcore.cryptography.keyderivation.5.0.5.nupkg.sha512",
     "C:\\Users\\Luis\\.nuget\\packages\\microsoft.aspnetcore.identity.entityframeworkcore\\5.0.5\\microsoft.aspnetcore.identity.entityframeworkcore.5.0.5.nupkg.sha512",

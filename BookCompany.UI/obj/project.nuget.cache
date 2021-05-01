@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "j9NYKIvzYUl/nyN1tyZs9P1V2kstuCBQiJsE6XFsHX6jg0igBZdioBRhQ0n1hlF+kKSGm8u/Kk98D+zGpFaoyQ==",
+  "dgSpecHash": "lGqw1JAmTRf16hG/35x7/19lqTqK6h/Esk0UwMpdlZSHMyGQMMWs3XREt/uuEtK9z63dHuewVycNVvyZqB/oSQ==",
   "success": true,
   "projectFilePath": "D:\\BookCompany\\BookCompany.UI\\BookCompany.UI.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Luis\\.nuget\\packages\\dapper\\2.0.90\\dapper.2.0.90.nupkg.sha512",
     "C:\\Users\\Luis\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Luis\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.5\\microsoft.aspnetcore.cryptography.internal.5.0.5.nupkg.sha512",
     "C:\\Users\\Luis\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\5.0.5\\microsoft.aspnetcore.cryptography.keyderivation.5.0.5.nupkg.sha512",
