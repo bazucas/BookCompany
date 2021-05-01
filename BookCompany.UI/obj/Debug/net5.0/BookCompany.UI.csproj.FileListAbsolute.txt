@@ -451,3 +451,5 @@ D:\BookCompany\BookCompany.UI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Category\
 D:\BookCompany\BookCompany.UI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Category\Upsert.cshtml.g.cs
 D:\BookCompany\BookCompany.UI\obj\Debug\net5.0\Razor\Views\Shared\_CreateAndBackToListButton.cshtml.g.cs
 D:\BookCompany\BookCompany.UI\obj\Debug\net5.0\Razor\Views\Shared\_EditAndBackToListButton.cshtml.g.cs
+D:\BookCompany\BookCompany.UI\obj\Debug\net5.0\Razor\Areas\Admin\Views\CoverType\Index.cshtml.g.cs
+D:\BookCompany\BookCompany.UI\obj\Debug\net5.0\Razor\Areas\Admin\Views\CoverType\Upsert.cshtml.g.cs
