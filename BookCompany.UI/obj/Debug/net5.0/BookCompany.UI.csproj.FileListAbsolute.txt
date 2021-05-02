@@ -453,3 +453,7 @@ D:\BookCompany\BookCompany.UI\obj\Debug\net5.0\Razor\Views\Shared\_CreateAndBack
 D:\BookCompany\BookCompany.UI\obj\Debug\net5.0\Razor\Views\Shared\_EditAndBackToListButton.cshtml.g.cs
 D:\BookCompany\BookCompany.UI\obj\Debug\net5.0\Razor\Areas\Admin\Views\CoverType\Index.cshtml.g.cs
 D:\BookCompany\BookCompany.UI\obj\Debug\net5.0\Razor\Areas\Admin\Views\CoverType\Upsert.cshtml.g.cs
+D:\BookCompany\BookCompany.UI\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\BookCompany\BookCompany.UI\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\BookCompany\BookCompany.UI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Product\Index.cshtml.g.cs
+D:\BookCompany\BookCompany.UI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Product\Upsert.cshtml.g.cs

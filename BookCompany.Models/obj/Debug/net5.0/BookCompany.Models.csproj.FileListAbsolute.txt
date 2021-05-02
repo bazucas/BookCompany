@@ -9,3 +9,4 @@ D:\BookCompany\BookCompany.Models\obj\Debug\net5.0\BookCompany.Models.csproj.Cor
 D:\BookCompany\BookCompany.Models\obj\Debug\net5.0\BookCompany.Models.dll
 D:\BookCompany\BookCompany.Models\obj\Debug\net5.0\ref\BookCompany.Models.dll
 D:\BookCompany\BookCompany.Models\obj\Debug\net5.0\BookCompany.Models.pdb
+D:\BookCompany\BookCompany.Models\obj\Debug\net5.0\BookCompany.Models.csprojAssemblyReference.cache
