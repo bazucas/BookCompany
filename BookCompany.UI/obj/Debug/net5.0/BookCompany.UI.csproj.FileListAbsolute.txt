@@ -457,3 +457,5 @@ D:\BookCompany\BookCompany.UI\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dl
 D:\BookCompany\BookCompany.UI\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
 D:\BookCompany\BookCompany.UI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Product\Index.cshtml.g.cs
 D:\BookCompany\BookCompany.UI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Product\Upsert.cshtml.g.cs
+D:\BookCompany\BookCompany.UI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Company\Index.cshtml.g.cs
+D:\BookCompany\BookCompany.UI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Company\Upsert.cshtml.g.cs
