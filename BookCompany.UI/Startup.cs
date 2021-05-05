@@ -14,6 +14,8 @@ using System.Linq;
 using System.Threading.Tasks;
 using BookCompany.DAL.Repository;
 using BookCompany.DAL.Repository.IRepository;
+using Microsoft.AspNetCore.Identity.UI.Services;
+using BookCompany.Utils;
 
 namespace BookCompany.UI
 {
@@ -33,12 +35,12 @@ namespace BookCompany.UI
                 options.UseSqlServer(
                     Configuration.GetConnectionString("DefaultConnection")));
             services.AddDatabaseDeveloperPageExceptionFilter();
-
-            //services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
-            services.AddDefaultIdentity<IdentityUser>()
+            services.AddIdentity<IdentityUser, IdentityRole>().AddDefaultTokenProviders()
                 .AddEntityFrameworkStores<ApplicationDbContext>();
+            services.AddSingleton<IEmailSender, EmailSender>();
             services.AddScoped<IUnitOfWork, UnitOfWork>();
-            services.AddControllersWithViews();
+            services.AddControllersWithViews().AddRazorRuntimeCompilation();
+            services.AddRazorPages();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
