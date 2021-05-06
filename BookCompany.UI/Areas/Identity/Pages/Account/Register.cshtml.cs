@@ -193,8 +193,7 @@ namespace BookCompany.UI.Areas.Identity.Pages.Account
                         {
                             //admin is registering a new user
                             return RedirectToAction("Index", "User", new { Area = "Admin" });
-                        }
-                        
+                        }                        
                     }
                 }
                 foreach (var error in result.Errors)
