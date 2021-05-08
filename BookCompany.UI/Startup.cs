@@ -50,13 +50,13 @@ namespace BookCompany.UI
             });
             services.AddAuthentication().AddFacebook(options =>
             {
-                options.AppId = "xx";
-                options.AppSecret = "xx";
+                options.AppId = Configuration.GetSection("Facebook:Id").Value;
+                options.AppSecret = Configuration.GetSection("Facebook:Secret").Value;
             });
             services.AddAuthentication().AddGoogle(options =>
             {
-                options.ClientId = "xx";
-                options.ClientSecret = "xx";
+                options.ClientId = Configuration.GetSection("Google:Id").Value;
+                options.ClientSecret = Configuration.GetSection("Google:Secret").Value;
             });
         }
 
